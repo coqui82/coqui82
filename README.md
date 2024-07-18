@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @coqui82
-- 👀 Estoy interesada en crear mi primer proyecto de prueba eb GitHub
-- 🌱 Estoy aprendiendo acerca de la Inteligencia Artificial
-- 💞️ Busco colaborar con un proyecto que impulse la lectura en las personas de todas las edades
-- 📫 Cómo puedes ayudarme a concretarlo?
-- 😄 Debe tener alguna llamada a la acción divertida y dinámica y mostrar ejemplos de libros entretenidos
-- ⚡ Lo hacemos?
-<!---
-coqui82/coqui82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Editar imagen de Lionel Messi agregando las caras de Leandro Paredes y Emiliano Martínez** 
+Un buen README facilita que otros entiendan tu proyecto, cómo utilizarlo y cómo pueden contribuir, mejorando así la colaboración y el éxito de tu proyecto.
+
+[https://chatgptonline.tech/es/](https://chatgptonline.tech/es/)
+
+Además, te podría interesar [Dibujos Para Colorear](https://www.google.com.mx/search?q=colorearw.com).
